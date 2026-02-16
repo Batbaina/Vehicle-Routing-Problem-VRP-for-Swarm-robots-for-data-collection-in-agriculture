@@ -155,7 +155,7 @@ pip install numpy matplotlib scikit-learn
 ##  Exécution
 
 ```bash
-python benchmark_vrp.py
+python vrp_implementation.py
 ```
 
 Le programme :
